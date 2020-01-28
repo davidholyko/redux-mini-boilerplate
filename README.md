@@ -9,3 +9,11 @@ install redux npm packages
 ```
 npm install
 ```
+
+### Deployment
+
+```
+npm run deploy
+```
+
+https://davidholyko.github.io/redux-mini-boilerplate/
