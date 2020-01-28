@@ -62,6 +62,16 @@ class App extends React.Component {
             <img key={index} src={logo} className="App-logo" alt="logo" />
           ))}
         </div>
+        <footer className="footer">
+          Check out the repository{' '}
+          <a
+            href="https://github.com/davidholyko/redux-mini-boilerplate"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            here!
+          </a>
+        </footer>
       </div>
     );
   }

@@ -35,6 +35,15 @@
   justify-content: center;
 }
 
+.footer {
+  padding: 10px;
+  background-color: #181c24;
+  width: 100%;
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
