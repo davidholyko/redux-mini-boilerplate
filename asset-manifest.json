@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redux-mini-boilerplate/static/css/main.33e38d6b.chunk.css",
+    "main.css": "/redux-mini-boilerplate/static/css/main.6c834e64.chunk.css",
     "main.js": "/redux-mini-boilerplate/static/js/main.71660b7a.chunk.js",
     "main.js.map": "/redux-mini-boilerplate/static/js/main.71660b7a.chunk.js.map",
     "runtime-main.js": "/redux-mini-boilerplate/static/js/runtime-main.15c70ef8.js",
@@ -9,10 +9,10 @@
     "static/js/2.193fddc4.chunk.js": "/redux-mini-boilerplate/static/js/2.193fddc4.chunk.js",
     "static/js/2.193fddc4.chunk.js.map": "/redux-mini-boilerplate/static/js/2.193fddc4.chunk.js.map",
     "index.html": "/redux-mini-boilerplate/index.html",
-    "precache-manifest.b81e06762ad054e5579b9d83ec7e587a.js": "/redux-mini-boilerplate/precache-manifest.b81e06762ad054e5579b9d83ec7e587a.js",
+    "precache-manifest.7ff8b62943bf520554459247a20ffa81.js": "/redux-mini-boilerplate/precache-manifest.7ff8b62943bf520554459247a20ffa81.js",
     "service-worker.js": "/redux-mini-boilerplate/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/redux-mini-boilerplate/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.33e38d6b.chunk.css.map": "/redux-mini-boilerplate/static/css/main.33e38d6b.chunk.css.map",
+    "static/css/main.6c834e64.chunk.css.map": "/redux-mini-boilerplate/static/css/main.6c834e64.chunk.css.map",
     "static/js/2.193fddc4.chunk.js.LICENSE": "/redux-mini-boilerplate/static/js/2.193fddc4.chunk.js.LICENSE",
     "static/media/logo.svg": "/redux-mini-boilerplate/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.15c70ef8.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.193fddc4.chunk.js",
-    "static/css/main.33e38d6b.chunk.css",
+    "static/css/main.6c834e64.chunk.css",
     "static/js/main.71660b7a.chunk.js"
   ]
 }
